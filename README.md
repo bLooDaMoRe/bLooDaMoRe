@@ -34,13 +34,19 @@
 - [ ] **Docker** - Containerizing my applications.
 
 ---
+### 🚀 Featured Projects
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЯТ_ПОТРЕБИТЕЛ&show_icons=true&theme=tokyonight&hide_border=true" alt="Bobby's GitHub Stats" />
-</p>
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| ** SOON UPDATE **
 
+</div>
+
+---
+
+---
 ---
 
 ### 📫 Connect with me
