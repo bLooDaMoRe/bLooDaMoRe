@@ -37,10 +37,10 @@
 
 | Project | Status & Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Inventory System** | ![75%](https://geps.dev/progress/75) <br> Full-stack web app with user auth and search. | `Flask`, `SQLAlchemy` | [SOON Repo](https://github.com/bloodamor/) |
-| **Discord Bot** | ![100%](https://geps.dev/progress/100) <br> 🤖 **Live!** Async bot for giveaways and backups. | `Python`, `Discord.py` | [DISCORD!](https://discord.gg/nCXnrDT2RY) |
-| **Weather App** | ![25%](https://geps.dev/progress/25) <br> Cross-platform mobile app with REST API. | `Python`, `KivyMD` | [SOON Repo](https://github.com/bloodamor/) |
-| **Secure QR Gen** | ![100%](https://geps.dev/progress/100) <br> Neon-styled generator with crypto secrets. | `Python`, `Pillow` | [DM / EMAIL](https://github.com/bloodamor/) |
+| **Inventory System** | ![75%](https://geps.dev/progress/75) <br> Full-stack web app with user auth and search. | `Flask`, `SQLAlchemy` | [View Repo](https://github.com/bloodamor/inventory-system) |
+| **Discord Bot** | ![100%](https://geps.dev/progress/100) <br> 🤖 **Live!** Async bot for giveaways and backups. | `Python`, `Discord.py` | [Try it here!](https://discord.gg/nCXnrDT2RY) |
+| **Weather App** | ![25%](https://geps.dev/progress/25) <br> Cross-platform mobile app with REST API. | `Python`, `KivyMD` | [View Repo](https://github.com/bloodamor/weather-app) |
+| **Secure QR Gen** | ![100%](https://geps.dev/progress/100) <br> Neon-styled generator with crypto secrets. | `Python`, `Pillow` | [View Repo](https://github.com/bloodamor/qr-generator) |
 
 </div>
 
@@ -56,14 +56,12 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bloodamor&show_icons=true&theme=tokyonight&count_private=true" alt="Bobby's Stats" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bloodamor&theme=tokyonight" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodamor&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bloodamor&theme=tokyo-night" width="100%" alt="Activity Graph" />
 </p>
 
 ---
