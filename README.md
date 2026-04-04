@@ -48,9 +48,9 @@
 
 ### ⚙️ Roadmap & Learning
 
-- [x] **OOP** - Mastering classes and inheritance.
-- [x] **Web Development** - Building apps with Flask & Jinja2.
-- [x] **GUI Development** - Building apps with Kivy/KivyMD.
+- [ ] **OOP** - Mastering classes and inheritance.
+- [ ] **Web Development** - Building apps with Flask & Jinja2.
+- [ ] **GUI Development** - Building apps with Kivy/KivyMD.
 - [ ] **Data Structures** - Deep dive into Trees and Graphs.
 - [ ] **Infrastructure** - Learning Docker and API Optimization.
 
