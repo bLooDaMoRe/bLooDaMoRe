@@ -59,11 +59,11 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bloodamor&show_icons=true&theme=tokyonight" alt="Bobby's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bloodamor&show_icons=true&theme=tokyonight&count_private=true" alt="Bobby's Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bloodamor&theme=tokyonight" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodamor&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodamor&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Langs" />
 </p>
 
 ---
