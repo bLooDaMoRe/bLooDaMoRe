@@ -37,10 +37,10 @@
 
 | Project | Status & Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Inventory System** | ![75%](https://geps.dev/progress/75) <br> Full-stack web app with user auth and search. | `Flask`, `SQLAlchemy` | [View Repo](https://github.com/bloodamor/inventory-system) |
+| **Inventory System** | ![75%](https://geps.dev/progress/75) <br> Full-stack web app with user auth and search. | `Flask`, `SQLAlchemy` | [SOON!](https://github.com/bloodamor/) |
 | **Discord Bot** | ![100%](https://geps.dev/progress/100) <br> 🤖 **Live!** Async bot for giveaways and backups. | `Python`, `Discord.py` | [Try it here!](https://discord.gg/nCXnrDT2RY) |
-| **Weather App** | ![25%](https://geps.dev/progress/25) <br> Cross-platform mobile app with REST API. | `Python`, `KivyMD` | [View Repo](https://github.com/bloodamor/weather-app) |
-| **Secure QR Gen** | ![100%](https://geps.dev/progress/100) <br> Neon-styled generator with crypto secrets. | `Python`, `Pillow` | [View Repo](https://github.com/bloodamor/qr-generator) |
+| **Weather App** | ![25%](https://geps.dev/progress/25) <br> Cross-platform mobile app with REST API. | `Python`, `KivyMD` | [SOON!](https://github.com/bloodamor/) |
+| **Secure QR Gen** | ![100%](https://geps.dev/progress/100) <br> Neon-styled generator with crypto secrets. | `Python`, `Pillow` | [EMAIL](https://github.com/bloodamor/) |
 
 </div>
 
