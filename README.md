@@ -37,7 +37,7 @@
 
 | Project | Status & Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Party Agency** | ![100%](https://geps.dev/progress/15) <br> Party Agency Landing Page | HTML5, CSS3, JS | [View Project](https://veseliq-s-kameliq.eu) |
+| **Party Agency** | ![100%](https://geps.dev/progress/100) <br> Party Agency Landing Page | HTML5, CSS3, JS | [View Project](https://veseliq-s-kameliq.eu) |
 | **Secure QR Gen** | ![100%](https://geps.dev/progress/100) <br> Junior-level script focusing on crypto-security and high error recovery (Level H).. | `Python`, `Pillow` | [PRIVATE](https://github.com/bloodamor/) |
 | **Discord Bot** | ![100%](https://geps.dev/progress/100) <br> 🤖 **Live!** Async bot for giveaways and backups. | `Python`, `Discord.py` | [Discord!](https://discord.gg/nCXnrDT2RY) |
 | **Inventory System** | ![40%](https://geps.dev/progress/40) <br> Full-stack web app with user auth and search. | `Flask`, `SQLAlchemy` | [SOON!](https://github.com/bloodamor/) |
