@@ -41,6 +41,7 @@
 | **Discord Bot** | ![100%](https://geps.dev/progress/100) <br> 🤖 **Live!** Async bot for giveaways and backups. | `Python`, `Discord.py` | [Discord!](https://discord.gg/nCXnrDT2RY) |
 | **Inventory System** | ![40%](https://geps.dev/progress/40) <br> Full-stack web app with user auth and search. | `Flask`, `SQLAlchemy` | [SOON!](https://github.com/bloodamor/) |
 | **Weather App** | ![15%](https://geps.dev/progress/15) <br> Cross-platform mobile app with REST API. | `Python`, `KivyMD` | [SOON!](https://github.com/bloodamor/) |
+| **Party Agency Landing Page** | ![100%](https://geps.dev/progress/100) | HTML5, CSS3, JS | [View Project](https://veseliq-s-kameliq.eu) |
 
 </div>
 
